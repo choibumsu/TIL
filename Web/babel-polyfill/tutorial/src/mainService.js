@@ -1,8 +1,8 @@
 import "core-js/modules/es.array.flat";
 export default class MainService {
+  dataList = "";
   constructor({ targetEl }) {
     this.targetEl = targetEl;
-    this.dataList = "";
   }
 
   init(dataList) {
