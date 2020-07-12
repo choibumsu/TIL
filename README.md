@@ -28,6 +28,10 @@
 - [ ] Vue.js
 - [ ] Express
 
+### Web
+- [ ] Webpack
+- [ ] Babel, Poltfill
+
 ### CS
 - [ ] Design Pattern
 - [ ] OS
