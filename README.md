@@ -1,11 +1,11 @@
 # Today I Learn
 
-## Rule
+## Rule 📏
 - One Day, least One Commit
 
 ------
 
-## Commit
+## Commit 📝
 **Format**
 - [YYMMDD] Topic - What i learn
 
@@ -16,7 +16,7 @@
 
 ------
 
-## Topics
+## Topics 🍡
 
 ### Language
 - [ ] JavaScript
