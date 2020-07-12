@@ -5,9 +5,7 @@ module.exports = function (api) {
     [
       "@babel/preset-env",
       {
-        targets: {
-          ie: 11,
-        },
+        targets: "> 0.25%, not dead",
         useBuiltIns: "usage",
         corejs: "3",
         modules: false,
@@ -15,7 +13,12 @@ module.exports = function (api) {
     ],
   ];
 
+  const plugins = [
+    ["@babel/plugin-proposal-class-properties", { loose: true }],
+  ];
+
   return {
     presets,
+    plugins,
   };
 };
