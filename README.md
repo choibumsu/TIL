@@ -1,8 +1,5 @@
 # Today I Learn
 
-## Rule 📏
-- One Day, least One Commit
-
 ------
 
 ## Commit 📝
